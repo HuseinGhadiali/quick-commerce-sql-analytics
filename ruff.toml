@@ -1,4 +1,5 @@
-line-length = 135
+line-length = 150
+extend-exclude = ["assets", "notebooks"]
 target-version = "py311"
 [lint]
 select = ["E", "F", "I", "W", "B"]

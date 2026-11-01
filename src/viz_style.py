@@ -23,7 +23,7 @@ def apply_style() -> None:
         "xtick.color": TEXT_2, "ytick.color": TEXT_2, "xtick.labelsize": 9, "ytick.labelsize": 9,
         "legend.frameon": False, "legend.fontsize": 9, "lines.linewidth": 2,
         "font.family": "DejaVu Sans", "figure.dpi": 110, "savefig.dpi": 150,
-        "axes.prop_cycle": matplotlib.cycler(color=SERIES),
+        "axes.prop_cycle": matplotlib.cycler(color=SERIES), "axes.axisbelow": True,
     })
 
 

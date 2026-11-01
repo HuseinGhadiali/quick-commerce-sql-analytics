@@ -1,6 +1,14 @@
-# Quick-Commerce SQL Analytics: 25 Business Questions in SQL
+<p align="center"><img src="assets/banner.png" alt="Quick-Commerce SQL Analytics: 25 Business Questions in SQL" width="100%"/></p>
 
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20DuckDB-336791) ![Python](https://img.shields.io/badge/Python-3.11+-3776AB) ![Tests](https://img.shields.io/badge/tests-42%20passing-2ea44f)
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DuckDB-FFC107?style=for-the-badge&logo=duckdb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pytest-42%20passing-2EA44F?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+# Quick-Commerce SQL Analytics: 25 Business Questions in SQL
 
 An end-to-end SQL case study on a **10-minute grocery delivery business** operating in 8 Indian cities
 (Mumbai, Delhi NCR, Bengaluru, Hyderabad, Pune, Chennai, Kolkata, Ahmedabad). It covers 2 years of data:
