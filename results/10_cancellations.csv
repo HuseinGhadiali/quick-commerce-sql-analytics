@@ -1,0 +1,5 @@
+time_band,orders,cancel_rate_pct,rider_unavailable_pct,out_of_stock_pct,customer_cancel_pct
+1. Morning 6-11,74105,4.12,1.36,1.27,1.49
+2. Afternoon 11-17,76410,3.52,0.81,1.16,1.55
+3. Evening 17-23,137023,4.0,1.34,1.17,1.49
+4. Late night 23-6,26475,3.47,0.83,1.11,1.53

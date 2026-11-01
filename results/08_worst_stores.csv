@@ -1,0 +1,13 @@
+store_code,city_name,deliveries,p50_minutes,p90_minutes,on_time_pct,avg_rating,slowest_rank_in_city,minutes_vs_city_median,flag
+BEN-Whitefield,Bengaluru,5482,13.4,19.7,38.2,4.23,1,3.7,INVESTIGATE
+MUM-AndheriWest,Mumbai,7936,12.7,19.0,34.7,4.09,1,3.5,INVESTIGATE
+DEL-Janakpuri,Delhi NCR,3773,10.8,17.4,77.8,4.47,1,1.0,ok
+KOL-SaltLake,Kolkata,6922,9.7,15.0,80.9,4.49,1,1.0,ok
+PUN-Baner,Pune,7105,10.4,16.1,76.9,4.45,1,0.9,ok
+HYD-Madhapur,Hyderabad,10130,10.0,15.9,83.3,4.48,1,0.8,ok
+MUM-Malad,Mumbai,2399,10.0,16.4,70.8,4.34,2,0.8,ok
+BEN-Koramangala,Bengaluru,10545,10.3,16.6,80.9,4.46,2,0.6,ok
+DEL-GurugramDLF,Delhi NCR,8817,10.4,17.0,81.8,4.44,2,0.6,ok
+DEL-NoidaSec62,Delhi NCR,7279,10.4,17.1,82.4,4.47,2,0.6,ok
+MUM-Bandra,Mumbai,9683,9.7,15.8,73.4,4.37,3,0.5,ok
+PUN-VimanNagar,Pune,6415,10.0,15.7,81.5,4.48,2,0.5,ok

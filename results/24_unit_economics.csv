@@ -1,0 +1,9 @@
+city_name,delivered_orders,aov,gross_margin_per_order,discount_per_order,delivery_fee_per_order,delivery_cost_per_order,contribution_per_order,contribution_margin_pct
+Bengaluru,61188,544.0,110.0,7.8,2.4,32.9,71.7,13.2
+Mumbai,63914,519.0,105.1,7.7,3.0,29.9,70.4,13.6
+Delhi NCR,66158,491.0,99.3,7.3,3.6,33.4,62.2,12.7
+Hyderabad,33796,480.0,97.2,7.3,3.8,32.4,61.2,12.7
+Pune,29393,471.0,95.1,7.1,4.0,31.9,60.1,12.8
+Chennai,24690,467.0,94.7,7.1,4.2,31.9,59.9,12.8
+Kolkata,12432,445.0,90.2,6.7,5.1,31.0,57.6,12.9
+Ahmedabad,10304,427.0,86.5,6.2,5.3,34.4,51.2,12.0

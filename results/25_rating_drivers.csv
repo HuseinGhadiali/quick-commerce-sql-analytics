@@ -1,0 +1,6 @@
+delivery_outcome,rated_orders,avg_rating,one_two_star_pct
+1. Early by 3+ min,111006,4.53,2.5
+2. On time,85681,4.53,2.5
+3. Late by 0-5 min,37047,4.21,2.9
+4. Late by 5-10 min,4200,3.2,15.9
+5. Late by 10+ min,348,2.14,70.1

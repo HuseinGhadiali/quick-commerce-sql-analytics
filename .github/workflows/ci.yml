@@ -1,0 +1,23 @@
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Lint
+        run: ruff check .
+      - name: Data-quality and query tests
+        run: pytest -q
+      - name: Full pipeline (generate data and run all 25 queries)
+        run: |
+          python src/generate_data.py --out data/raw
+          python src/run_analysis.py

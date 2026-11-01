@@ -1,0 +1,6 @@
+longest_weekly_streak,customers,pct,max_in_bucket
+1 week,15466,41.1,1
+2-3 weeks,12284,32.6,3
+4-7 weeks,6692,17.8,7
+8-15 weeks,2520,6.7,15
+16+ weeks,708,1.9,74

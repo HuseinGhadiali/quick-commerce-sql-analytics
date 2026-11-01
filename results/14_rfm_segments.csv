@@ -1,0 +1,7 @@
+segment,customers,customer_pct,revenue_pct,avg_recency_days,avg_orders,avg_lifetime_spend
+1. Champions,7167,19.0,45.3,30.0,27.3,13602.0
+2. Loyal,7425,19.7,22.2,125.0,13.1,6431.0
+3. New / Promising,4859,12.9,1.9,53.0,1.7,835.0
+4. Need attention,3151,8.4,1.1,182.0,1.6,774.0
+5. At risk (were valuable),8010,21.3,27.0,418.0,14.6,7239.0
+6. Hibernating / lost,7058,18.7,2.5,453.0,1.6,749.0

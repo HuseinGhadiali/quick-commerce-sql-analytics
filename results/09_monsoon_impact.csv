@@ -1,0 +1,5 @@
+city_group,season,orders,avg_delivery_min,on_time_pct,rider_cancel_pct
+Mumbai,Monsoon (Jun-Sep),32543,12.1,52.2,2.44
+Mumbai,Rest of year,62461,9.6,80.5,0.98
+Other cities,Monsoon (Jun-Sep),123243,10.4,84.4,1.35
+Other cities,Rest of year,232758,10.2,86.4,1.0

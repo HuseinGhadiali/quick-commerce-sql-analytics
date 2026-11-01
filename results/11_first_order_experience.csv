@@ -1,0 +1,5 @@
+first_experience,customers,repeat_within_60d_pct,avg_orders_next_90d
+1. On time,25772,76.2,6.78
+2. Late by <= 4 min,3171,73.7,6.12
+3. Late by > 4 min,786,69.8,5.35
+Cancelled,1188,73.1,6.19
